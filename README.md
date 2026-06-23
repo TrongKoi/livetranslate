@@ -1,4 +1,4 @@
-# Manga Live Translator Pro
+#Live Translator Pro
 
 An advanced, high-performance, and privacy-focused real-time screen translation utility app for Windows. Built entirely in Python with a beautiful multi-threaded GUI, allowing users to capture, recognize text via local AI (OCR), and stream non-flicker translations seamlessly without console dependency.
 
